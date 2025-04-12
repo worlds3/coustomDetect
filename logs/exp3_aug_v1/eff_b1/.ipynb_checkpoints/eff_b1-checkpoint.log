@@ -1,0 +1,34 @@
+2024-12-17 01:41:14,491 - Training started for model: eff_b1
+2024-12-17 01:43:24,364 - Epoch 1/30, Train Loss: 3.8199, Train Acc: 0.0838, Train F1: 0.0688 Test Loss: 3.3999, Test Acc: 0.2500, Test F1: 0.2004
+2024-12-17 01:45:39,696 - Epoch 2/30, Train Loss: 3.1171, Train Acc: 0.2358, Train F1: 0.1992 Test Loss: 2.7295, Test Acc: 0.3214, Test F1: 0.2618
+2024-12-17 01:47:53,128 - Epoch 3/30, Train Loss: 2.5517, Train Acc: 0.3541, Train F1: 0.3195 Test Loss: 2.3431, Test Acc: 0.3512, Test F1: 0.3201
+2024-12-17 01:50:06,676 - Epoch 4/30, Train Loss: 2.1326, Train Acc: 0.4509, Train F1: 0.4261 Test Loss: 2.1206, Test Acc: 0.3929, Test F1: 0.3615
+2024-12-17 01:52:19,826 - Epoch 5/30, Train Loss: 1.8088, Train Acc: 0.5325, Train F1: 0.5153 Test Loss: 1.9228, Test Acc: 0.4345, Test F1: 0.4217
+2024-12-17 01:54:24,095 - Epoch 6/30, Train Loss: 1.5334, Train Acc: 0.5991, Train F1: 0.5842 Test Loss: 1.9532, Test Acc: 0.4345, Test F1: 0.4310
+2024-12-17 01:56:31,918 - Epoch 7/30, Train Loss: 1.3294, Train Acc: 0.6508, Train F1: 0.6385 Test Loss: 1.9056, Test Acc: 0.4583, Test F1: 0.4582
+2024-12-17 01:58:43,988 - Epoch 8/30, Train Loss: 1.1304, Train Acc: 0.6971, Train F1: 0.6880 Test Loss: 1.9381, Test Acc: 0.4345, Test F1: 0.4218
+2024-12-17 02:00:45,604 - Epoch 9/30, Train Loss: 0.9723, Train Acc: 0.7400, Train F1: 0.7318 Test Loss: 1.8780, Test Acc: 0.4464, Test F1: 0.4521
+2024-12-17 02:02:58,086 - Epoch 10/30, Train Loss: 0.8181, Train Acc: 0.7819, Train F1: 0.7758 Test Loss: 1.9789, Test Acc: 0.4583, Test F1: 0.4667
+2024-12-17 02:05:14,693 - Epoch 11/30, Train Loss: 0.7034, Train Acc: 0.8146, Train F1: 0.8108 Test Loss: 2.0018, Test Acc: 0.4583, Test F1: 0.4677
+2024-12-17 02:07:19,775 - Epoch 12/30, Train Loss: 0.5910, Train Acc: 0.8394, Train F1: 0.8344 Test Loss: 2.2366, Test Acc: 0.4345, Test F1: 0.4394
+2024-12-17 02:09:32,336 - Epoch 13/30, Train Loss: 0.5210, Train Acc: 0.8594, Train F1: 0.8553 Test Loss: 2.0603, Test Acc: 0.4583, Test F1: 0.4548
+2024-12-17 02:11:45,274 - Epoch 14/30, Train Loss: 0.4487, Train Acc: 0.8772, Train F1: 0.8743 Test Loss: 2.2263, Test Acc: 0.4583, Test F1: 0.4704
+2024-12-17 02:13:57,907 - Epoch 15/30, Train Loss: 0.3977, Train Acc: 0.8915, Train F1: 0.8898 Test Loss: 2.3086, Test Acc: 0.4702, Test F1: 0.4672
+2024-12-17 02:16:07,793 - Epoch 16/30, Train Loss: 0.3507, Train Acc: 0.9012, Train F1: 0.8977 Test Loss: 2.2074, Test Acc: 0.4762, Test F1: 0.4854
+2024-12-17 02:18:17,638 - Epoch 17/30, Train Loss: 0.3015, Train Acc: 0.9155, Train F1: 0.9131 Test Loss: 2.2007, Test Acc: 0.4881, Test F1: 0.4866
+2024-12-17 02:20:32,759 - Epoch 18/30, Train Loss: 0.2718, Train Acc: 0.9240, Train F1: 0.9224 Test Loss: 2.4581, Test Acc: 0.4762, Test F1: 0.4768
+2024-12-17 02:22:48,983 - Epoch 19/30, Train Loss: 0.2421, Train Acc: 0.9335, Train F1: 0.9332 Test Loss: 2.3978, Test Acc: 0.5000, Test F1: 0.5048
+2024-12-17 02:25:03,608 - Epoch 20/30, Train Loss: 0.2283, Train Acc: 0.9338, Train F1: 0.9324 Test Loss: 2.3741, Test Acc: 0.4821, Test F1: 0.4970
+2024-12-17 02:27:18,019 - Epoch 21/30, Train Loss: 0.2124, Train Acc: 0.9370, Train F1: 0.9340 Test Loss: 2.4115, Test Acc: 0.4643, Test F1: 0.4746
+2024-12-17 02:29:32,658 - Epoch 22/30, Train Loss: 0.1913, Train Acc: 0.9460, Train F1: 0.9445 Test Loss: 2.6503, Test Acc: 0.4702, Test F1: 0.4924
+2024-12-17 02:31:46,782 - Epoch 23/30, Train Loss: 0.1708, Train Acc: 0.9481, Train F1: 0.9467 Test Loss: 2.6342, Test Acc: 0.4583, Test F1: 0.4575
+2024-12-17 02:34:01,341 - Epoch 24/30, Train Loss: 0.1688, Train Acc: 0.9468, Train F1: 0.9470 Test Loss: 2.5703, Test Acc: 0.5000, Test F1: 0.5212
+2024-12-17 02:36:16,502 - Epoch 25/30, Train Loss: 0.1608, Train Acc: 0.9485, Train F1: 0.9467 Test Loss: 2.7581, Test Acc: 0.4702, Test F1: 0.4831
+2024-12-17 02:38:28,750 - Epoch 26/30, Train Loss: 0.1616, Train Acc: 0.9483, Train F1: 0.9484 Test Loss: 2.7229, Test Acc: 0.4821, Test F1: 0.4892
+2024-12-17 02:40:40,661 - Epoch 27/30, Train Loss: 0.1477, Train Acc: 0.9524, Train F1: 0.9507 Test Loss: 2.6439, Test Acc: 0.5000, Test F1: 0.5118
+2024-12-17 02:42:54,812 - Epoch 28/30, Train Loss: 0.1406, Train Acc: 0.9550, Train F1: 0.9531 Test Loss: 2.7112, Test Acc: 0.4583, Test F1: 0.4550
+2024-12-17 02:45:04,384 - Epoch 29/30, Train Loss: 0.1380, Train Acc: 0.9556, Train F1: 0.9546 Test Loss: 2.6472, Test Acc: 0.4940, Test F1: 0.4973
+2024-12-17 02:47:17,559 - Epoch 30/30, Train Loss: 0.1232, Train Acc: 0.9599, Train F1: 0.9591 Test Loss: 2.8492, Test Acc: 0.4345, Test F1: 0.4661
+2024-12-17 02:47:17,631 - Training ended.
+Total time: 1:06:03.141240
+2024-12-17 02:47:17,631 - 最好的一次：Epoch 19/30, Train Loss: 0.2421, Train Acc: 0.9335, Train F1: 0.9332 Test Loss: 2.3978, Test Acc: 0.5000, Test F1: 0.5048
